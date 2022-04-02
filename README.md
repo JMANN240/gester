@@ -4,7 +4,7 @@
 
 Gester is a program that allows you to remotely control a host that is running the script. It is ideal for applications in which the host does not have an easily accessible mouse or keyboard. 
 
-For example, one could use Gester on a media server to allow for easy control with just a phone.
+For example, one could use Gester on a media server (with the help of an init system) to allow for easy control with just a phone.
 
 ## Installation
 
