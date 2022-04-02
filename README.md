@@ -20,8 +20,8 @@ The top 80% of the screen is taken up by the mouse. Drag anywhere on this box to
 
 If you tap on this box, its behavior depends on where the tap was. The upper subdivisions will toggle holding their respective mouse buttons (left, middle, right), while the lower subdivisions will simply click their respective mouse buttons.
 
-Swiping anywhere on this mouse box will simulate arrow key presses. It is sensitive to direction and magnitude of the swipe, so larger swipes will send more key presses.
-
 ### Keyboard
+
+Swiping anywhere on this mouse box will simulate arrow key presses. It is sensitive to direction and magnitude of the swipe, so larger swipes will send more key presses.
 
 There is a text box for entering text input. Type the desired text in and press the "Send" button to send it to the host device. The remaining buttons are used for keys or commands such as enter, backspace, copy, paste, etc.
